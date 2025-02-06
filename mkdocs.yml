@@ -1,0 +1,16 @@
+site_name: My documentation
+theme:
+    name: material
+    palette:
+    - scheme: default
+      primary: blue
+      toggle:
+        icon: material/lightbulb
+        name: Modo oscuro
+    - scheme: slate
+      primary: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Modo claro
+plugins:
+    - search
