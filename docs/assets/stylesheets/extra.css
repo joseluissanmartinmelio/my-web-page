@@ -1,0 +1,9 @@
+/* Justificar todo el texto en párrafos */
+.md-typeset p {
+    text-align: justify;
+}
+
+/* Justificar listas */
+.md-typeset li {
+    text-align: justify;
+}

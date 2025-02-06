@@ -1,16 +1,30 @@
-site_name: My documentation
+site_name: Jose San Martin
+extra_css:
+  - assets/stylesheets/extra.css
 theme:
     name: material
     palette:
     - scheme: default
-      primary: blue
+      primary: white
+      accent: light green
       toggle:
-        icon: material/lightbulb
+        icon: material/brightness-7
         name: Modo oscuro
     - scheme: slate
-      primary: blue
+      primary: black
+      accent: light green
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/brightness-4
         name: Modo claro
 plugins:
     - search
+nav:
+    - Home: index.md
+    - CV: curriculum.md
+    - Computational services: computational.md
+    - Recommended bibliography: bibliography.md
+
+
+    
+    
+    
