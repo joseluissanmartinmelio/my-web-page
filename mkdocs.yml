@@ -5,4 +5,4 @@ theme:
     
 nav:
     - "About me": index.md 
-    
+    - "CV" : cv.md
