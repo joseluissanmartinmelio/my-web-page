@@ -1,0 +1,8 @@
+site_name: Jose San Martin
+
+theme:
+    name: material
+    
+nav:
+    - "About me": index.md 
+    

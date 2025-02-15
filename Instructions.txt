@@ -1,0 +1,5 @@
+# When editing .md files in docs/, follow these steps to update your site:
+
+git add .
+git commit -m "Actualizando contenido del sitio"
+git push origin main
