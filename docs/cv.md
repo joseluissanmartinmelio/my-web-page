@@ -1,1 +1,3 @@
+Current - January 2024: Data Analyst. Research Area. Consejo Para La Transparencia. Role: Conduct studies, reports and presentations on transparency and access to information in Chile and internationally.
+
 In progress...
